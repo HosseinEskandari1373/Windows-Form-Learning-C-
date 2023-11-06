@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FirstConsole/1.0.0": {
+        "dependencies": {
+          "Melipayamak.RestClient": "1.0.0"
+        },
+        "runtime": {
+          "FirstConsole.dll": {}
+        }
+      },
+      "Melipayamak.RestClient/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/mpNuget.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Melipayamak.RestClient/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xe6yQXhL75Mg+QfmmOX/Q+2elNVczyPeBfBYDsFQonVTGMYND0NUkbXvL5VtIK+sGdRxhfB+oB1oU/M/RE58tA==",
+      "path": "melipayamak.restclient/1.0.0",
+      "hashPath": "melipayamak.restclient.1.0.0.nupkg.sha512"
+    }
+  }
+}

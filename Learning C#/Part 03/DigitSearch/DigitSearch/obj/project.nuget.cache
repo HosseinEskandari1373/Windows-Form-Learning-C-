@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyTuHreIhd4YvSiEviTU3ZW26MRlHBUZMO8g1zreoSTkFRYR+e4Io9TIt5zoGVFcQLB095tdGXEGp+EZK79mGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\payanet\\source\\repos\\Learning\\C#\\Part 03\\DigitSearch\\DigitSearch\\DigitSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\payanet\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
